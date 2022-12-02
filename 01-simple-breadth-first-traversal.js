@@ -25,11 +25,7 @@ function printBreadthFirst(start) {
                 visited.add(element);
             }
         });
-
-
-
     }
-
 }
 
 console.log("First Test:")
